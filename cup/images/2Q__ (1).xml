@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2Q__ (1).jpg</filename>
+	<path>C:\Users\Yen\Desktop\cup\images\2Q__ (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>41</ymin>
+			<xmax>92</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>41</ymin>
+			<xmax>92</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>
