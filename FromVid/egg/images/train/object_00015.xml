@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>object_00015.jpg</filename>
+	<path>C:\Users\Yen\Desktop\Training Objects\FromVid\egg\images\object_00015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>338</ymin>
+			<xmax>291</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sunglass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>396</ymin>
+			<xmax>691</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>

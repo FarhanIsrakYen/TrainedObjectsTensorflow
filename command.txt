@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vf "scale=720:1280,fps=3" FromVid/egg/images/object_%05d.jpg
